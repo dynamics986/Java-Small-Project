@@ -1,0 +1,5 @@
+There are 11 records: 
+average(residential) =   61628 TJ 
+average(commercial) =  119387 TJ 
+average(industrial) =   12847 TJ 
+average(transport) =   86565 TJ 

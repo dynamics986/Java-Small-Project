@@ -1,0 +1,109 @@
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+checkQueenCount = 1
+4x4 checkEndGame():
+[Q][ ][ ][ ]
+[ ][Q][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+checkQueenCount = 2
+4x4 checkEndGame(): \d#x-y=0
+[Q][ ][ ][ ]
+[ ][Q][ ][ ]
+[ ][ ][Q][ ]
+[ ][ ][ ][ ]
+checkQueenCount = 3
+4x4 checkEndGame(): \d#x-y=0
+[Q][ ][ ][ ]
+[ ][Q][ ][ ]
+[ ][ ][Q][ ]
+[ ][ ][ ][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): \d#x-y=0
+[Q][ ][ ][ ]
+[ ][Q][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): \d#x-y=0
+[Q][ ][ ][ ]
+[ ][Q][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][ ][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#3 |x#0 \d#x-y=0
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][ ][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): -y#3 |x#0 \d#x-y=0
+[Q][ ][ ][Q]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][ ][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#0 -y#3 |x#0 |x#3 \d#x-y=0 /d#x+y=3
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][ ][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): -y#3 |x#0 \d#x-y=0
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][Q][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#3 |x#0 \d#x-y=0
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][ ][Q][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): -y#3
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][Q][Q][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#3
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][Q][ ][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): -y#3
+[ ][ ][Q][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[Q][Q][ ][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#3
+[ ][ ][Q][ ]
+[ ][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][Q][ ][Q]
+checkQueenCount = 3
+4x4 checkEndGame(): -y#3
+[ ][ ][Q][ ]
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][Q][ ][Q]
+checkQueenCount = 4
+4x4 checkEndGame(): -y#3
+[ ][ ][Q][ ]
+[Q][ ][ ][ ]
+[ ][ ][ ][ ]
+[ ][Q][ ][ ]
+checkQueenCount = 3
+4x4 checkEndGame():
+[ ][ ][Q][ ]
+[Q][ ][ ][ ]
+[ ][ ][ ][Q]
+[ ][Q][ ][ ]
+checkQueenCount = 4
+4x4 checkEndGame():
+
