@@ -90,4 +90,3 @@ Contributions are welcome! Please:
 2. Create a feature branch: git checkout -b feature/your-feature
 3. Commit your changes and push: git push origin feature/your-feature
 4. Open a pull request describing your changes.
-5. 
